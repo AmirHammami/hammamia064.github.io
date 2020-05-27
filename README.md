@@ -1,6 +1,6 @@
 <h2 style="text-align: center;">PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS</h2> 
 <p></p> 
-<p>This privacy policy governs your use of the software application توصيل الرموز (“Application”) for mobile devices that was created by&nbsp;Amir Hammami.&nbsp;The Application &nbsp;allows a user to create delivery requests and to savec them on Firebase Cloud server in order to be accepted by a driver&nbsp;</p> 
+<p>This privacy policy governs your use of the software application توصيل المنقذ (“Application”) for mobile devices that was created by&nbsp;Amir Hammami.&nbsp;The Application &nbsp;allows a user to create delivery requests and to savec them on Firebase Cloud server in order to be accepted by a driver&nbsp;</p> 
 <h4>&nbsp;</h4> 
 <h4>What information does the Application obtain and how is it used?</h4> 
 <p></p> 
@@ -39,11 +39,11 @@
 <p>You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@applicationsite.com.</p> 
 <p>&nbsp;</p> 
 <h4><strong>Data Retention Policy, Managing Your Information</strong></h4> 
-<p>We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months&nbsp;and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at&nbsp;hammamia064@gmail.com&nbsp;and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.</p> 
+<p>We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months&nbsp;and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at&nbsp;aldhahriazzam@gmail.com&nbsp;and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.</p> 
 <p>&nbsp;</p> 
 <h4><strong>Children</strong></h4> 
 <p></p> 
-<p>We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at&nbsp;hammamia064@gmail.com. We will delete such information from our files within a reasonable time.</p> 
+<p>We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at&nbsp;aldhahriazzam@gmail.com. We will delete such information from our files within a reasonable time.</p> 
 <h4>&nbsp;</h4> 
 <h4><strong>Security</strong></h4> 
 <p></p> 
@@ -56,4 +56,4 @@
 <p>By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. &quot;Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the Kigdom of Saudi Arabia. If you reside outside the Kigdom of Saudi Arabia&nbsp;your information will be transferred, processed and stored there under Kigdom of Saudi Arabia&nbsp;privacy standards.&nbsp;</p> 
 <p>&nbsp;</p> 
 <h4>Contact us</h4> 
-<p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at&nbsp;hammamia064@gmail.com.</p>
+<p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at&nbsp;aldhahriazzam@gmail.com.</p>
